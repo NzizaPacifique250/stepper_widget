@@ -39,6 +39,10 @@ Add screenshots to the repository (for example in `assets/screenshots/`) and upd
 
   ![Stepper in progress](assets/screenshots/screenshot2.png)
 
+- Screenshot: Stepper Completed
+
+ ![Completed Stepper](assets/screenshots/screenshot3.png)
+
 Notes
 - This demo intentionally keeps logic and UI in the same file for simplicity. If you want a production-ready structure I can extract widgets, add tests, and wire asset images into `pubspec.yaml`.
 
